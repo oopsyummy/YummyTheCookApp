@@ -3,7 +3,7 @@
 A cross-platform home cook sharing and ordering social network app.
 
 # Why?
-* Large recipe app collects data from all kinds of dishes, makes it difficult to accomplish in small home.
+* Large recipe app collects data from all kinds of dishes, makes it easy to accomplish in small home.
 * Ordering apps have not yet reached the specific market of home-made food.
 
 # Main Features
